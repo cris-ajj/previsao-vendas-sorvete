@@ -1,4 +1,4 @@
-l# Previsão de Vendas de Sorvete 🍦📊
+# Previsão de Vendas de Sorvete 🍦📊
 
 Projeto do bootcamp DP-100: Previsão de vendas de sorvete usando Machine Learning e MLflow.
 
