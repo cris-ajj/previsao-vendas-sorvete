@@ -1,4 +1,4 @@
-# Previsão de Vendas de Sorvete 🍦📊
+l# Previsão de Vendas de Sorvete 🍦📊
 
 Projeto do bootcamp DP-100: Previsão de vendas de sorvete usando Machine Learning e MLflow.
 
@@ -18,10 +18,10 @@ Neste projeto, aplicamos conceitos de Machine Learning para prever vendas de sor
 - Organização de modelos dentro do ecossistema Azure 💙✨
 
 ## Tecnologias
-#Azure
-#AzureMachineLearning
-#MachineLearning
-#DP100
-#Microsoft
-#DataScience
-#AprendizadoContínuo
+- Azure
+- Azure Machine Learning
+- Machine Learning
+- DP-100
+- Microsoft
+- Data Science
+- Aprendizado Contínuo
